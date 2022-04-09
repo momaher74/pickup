@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144264440925",
+    "project_id": "pickup-ec732",
+    "storage_bucket": "pickup-ec732.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144264440925:android:184c440ba959de316e31b4",
+        "android_client_info": {
+          "package_name": "com.example.pickup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144264440925-qc3adc8nf7edgtebagdu0e7qnp9bflvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKJ7hX3FnujRCzc-FWeXgS5CDoI5siEYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144264440925-qc3adc8nf7edgtebagdu0e7qnp9bflvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
